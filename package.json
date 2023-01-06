@@ -1,0 +1,27 @@
+{
+  "name": "food-delivery-system",
+  "version": "1.0.0",
+  "description": "to use the cart page in your website, just copy the html part of it and css styles, and also stoer.js file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvcli/food-delivery-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvcli/food-delivery-system/issues"
+  },
+  "homepage": "https://github.com/kvcli/food-delivery-system#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "stripe": "^11.5.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}

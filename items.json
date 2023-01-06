@@ -1,0 +1,108 @@
+{
+    "Breakfast": [
+        {
+            "id":1,
+            "name" : "Granola, with fresh fruit, and nuts.",
+            "price" :1200,
+            "imgName" : "menu-8.jpg"
+
+        },
+        {
+            "id":2,
+            "name" : "Halloumi cheese & egg sandwitch.",
+            "price" :799,
+            "imgName" : "dish-6.png"
+
+        },
+        {
+            "id":3,
+            "name" : "Egg & avocado salad",
+            "price" :1800,
+            "imgName" : "R (1).jpg"
+
+        },
+        {
+            "id":4,
+            "name" : "Griled salmon, with egg & salad.",
+            "price" :1820,
+            "imgName" : "menu-11.jpg"
+
+        }
+
+    ],
+
+    "LunchDinner" : [
+        {
+            "id":5,
+            "name" : "Griled Salmon, Served With Green Salad.",
+            "price" :2500,
+            "imgName" : "dish-1.png"
+
+        },
+        {
+            "id":6,
+            "name" : "Smoked Beef, Served With Sweet Potatto And Green Pean.",
+            "price" :2099,
+            "imgName" : "dish-2.png"
+
+        },
+        {
+            "id":7,
+            "name" : "Roasted Chiken, Seasoned With Rosemary And Lemon.",
+            "price" :3599,
+            "imgName" : "dish-3.png"
+
+        },
+        {
+            "id":8,
+            "name" : "Wagyu Steak,Served With Griled Potatto And Some Spinach.",
+            "price" :4099,
+            "imgName" : "dish-4.png"
+
+        },
+        {
+            "id":9,
+            "name" : "Griled Chiken, Served With Some Broccoli Ans Spinach",
+            "price" :1399,
+            "imgName" : "dish-5.png"
+
+        },
+        {
+            "id":10,
+            "name" : "Chiken Tandoori, Served With Some Onion And Lemon.",
+            "price" :799,
+            "imgName" : "blog-6.jpg"
+
+        }
+
+    ],
+
+    "Desserts" : [
+        {
+            "id":11,
+            "name" : "Fresh Fruit, Served With Our Private Sause.",
+            "price" :500,
+            "imgName" : "menu-0.jpg"
+
+        },
+       
+        {
+            "id":12,
+            "name" : " Oat & Banana Crape.",
+            "price" :799,
+            "imgName" : "menu-3.jpg"
+
+        },
+        {
+            "id":13,
+            "name" : " Peanut Butter And Blueberry Cake.",
+            "price" :1800,
+            "imgName" : "menu-5.jpg"
+
+        }
+
+
+
+    ]
+
+}
